@@ -1,5 +1,7 @@
 # Open-Source Language Models for Retrieval-Augmented Generation (RAG)
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=slevin48/open-source-rag)
+
 
 Retrieval-Augmented Generation enables to generate answers and code snippets based on an index of documents (like a codebase stored in MATLAB Drive)
 
